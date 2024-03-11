@@ -1,6 +1,6 @@
 # guitar-search-with-selenium
 
-This project uses Selenium WebDriver with Python to automate browser actions. It specifically searches for a list of guitars on the website "https://www.musiciansfriend.com/".
+This project uses Selenium WebDriver with Python to automate browser actions. It specifically searches for a list of foods on the website "https://www.musiciansfriend.com/".
 
 **Features**
 
